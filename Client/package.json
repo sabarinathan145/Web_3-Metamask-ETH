@@ -8,7 +8,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@material-tailwind/react": "0.3.4",
+    "@material-tailwind/react": "1.2.5",
     "@tailwindcss/forms": "^0.4.0",
     "ethers": "^5.5.3",
     "react": "^17.0.2",
